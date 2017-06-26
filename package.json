@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "npm run start"
+    "start": "node RandomHC"
   },
   "author": "resjay",
   "license": "ISC"
