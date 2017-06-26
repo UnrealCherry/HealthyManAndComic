@@ -1,13 +1,11 @@
 # HealthyManAndComic
 一个健康的项目
 ## NPM包
-````
-npm install h-comic   //安装h-comic
-
-var h =require("h-comic")
-h.download("少女",9043)   //运行
-
 ```
+npm install h-comic   //安装h-comic
+var h =require("h-comic")
+h.download("少女",9043) ```  //运行
+
 ## 运行项目
 * npm install先安装包
 * npm  run start(或者node  RandomHC)都可以
