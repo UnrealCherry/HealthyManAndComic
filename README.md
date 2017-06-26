@@ -1,6 +1,13 @@
 # HealthyManAndComic
 一个健康的项目
+## NPM包
+````
+npm install h-comic   //安装h-comic
 
+var h =require("h-comic")
+h.download("少女",9043)   //运行
+
+```
 ## 运行项目
 * npm install先安装包
 * npm  run start(或者node  RandomHC)都可以
@@ -29,10 +36,3 @@ RandomHC(NAME,INDEX)
 *遇到网站挂链或者没响应的情况自动跳过
 #### 优化了读取速度
 *加快了读取速度大概40%
-###  更新了npm包
-`````
-npm install h-comic   //安装h-comic
-
-var h =require("h-comic")
-h.download("少女",9043)   //运行
-
