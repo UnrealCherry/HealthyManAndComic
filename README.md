@@ -12,3 +12,5 @@ RandomHC(NAME,INDEX)
 *
 * //INDEX参数为漫画番号  不输入默认为随机漫画   输错番号会报错
 ```
+![](https://github.com/ResJay/HealthyManAndComic/blob/master/%E6%8F%8F%E8%BF%B0%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20170626081806.png?raw=true)
+![](https://github.com/ResJay/HealthyManAndComic/blob/master/%E6%8F%8F%E8%BF%B0%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20170626081959.png?raw=true)
