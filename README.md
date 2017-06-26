@@ -2,7 +2,8 @@
 一个健康的项目
 
 ## 运行项目
-*npm run start
+* npm install先安装包
+* npm run start
 
 #### 在RandomHC.js里面修改参数
 ```
