@@ -17,9 +17,9 @@ RandomHC(NAME,INDEX)
 #### NPM包
 ```
 
-npm install h-comic   //安装h-comic
-var h =require("h-comic")
-h.download("少女",9043)   //运行
+* npm install h-comic   //安装h-comic
+* var h =require("h-comic")
+* h.download("少女",9043)   //运行
 
 ```
 
