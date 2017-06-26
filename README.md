@@ -16,4 +16,10 @@ RandomHC(NAME,INDEX)
 ```
 ![](https://github.com/ResJay/HealthyManAndComic/blob/master/%E6%8F%8F%E8%BF%B0%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20170626081806.png?raw=true)
 ![](https://github.com/ResJay/HealthyManAndComic/blob/master/%E6%8F%8F%E8%BF%B0%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20170626081959.png?raw=true)
-
+#### 更新了番号参数  具体在TXT里
+![绅士](https://github.com/ResJay/HealthyManAndComic/blob/master/%E6%8F%8F%E8%BF%B0%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20170627005348.png?raw=true) 
+![少女](https://github.com/ResJay/HealthyManAndComic/blob/master/%E6%8F%8F%E8%BF%B0%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20170627005357.png?raw=true)
+#### 更新了部分bug  
+*遇到网站挂链或者没响应的情况自动跳过
+#### 优化了读取速度
+*加快了读取速度大概40%
