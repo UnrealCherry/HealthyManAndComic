@@ -1,0 +1,16 @@
+{
+  "name": "resjay",
+  "version": "1.0.0",
+  "description": "comic",
+  "main": "RandomHC.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "superagent": "^3.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run start"
+  },
+  "author": "resjay",
+  "license": "ISC"
+}
