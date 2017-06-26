@@ -3,7 +3,7 @@
 
 ## 运行项目
 * npm install先安装包
-* npm run start
+* node  RandomHC
 
 #### 在RandomHC.js里面修改参数
 ```
