@@ -26,11 +26,19 @@ RandomHC(NAME,INDEX)
 
 ```
 
+#### 更新了部分bug  
+*遇到网站挂链或者没响应的情况自动跳过
+#### 优化了读取速度
+*加快了读取速度大概40%
+####  增加了搜索功能
+*可模糊搜索
+####   更新了注释
+*方便新手们学习 
 
 
 
 
-
+![](https://github.com/ResJay/HealthyManAndComic/blob/master/%E6%8F%8F%E8%BF%B0%E5%9B%BE%E7%89%87/%E6%B3%A8%E9%87%8A.png?raw=true)
 ![](https://github.com/ResJay/HealthyManAndComic/blob/master/%E6%8F%8F%E8%BF%B0%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20170627041039.png?raw=true)
 ![](https://github.com/ResJay/HealthyManAndComic/blob/master/%E6%8F%8F%E8%BF%B0%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20170626081959.png?raw=true)
 #### 更新了番号参数  具体在TXT里
@@ -42,9 +50,4 @@ RandomHC(NAME,INDEX)
  少女
 ```
 ![少女](https://github.com/ResJay/HealthyManAndComic/blob/master/%E6%8F%8F%E8%BF%B0%E5%9B%BE%E7%89%87/QQ%E6%88%AA%E5%9B%BE20170627005357.png?raw=true)
-#### 更新了部分bug  
-*遇到网站挂链或者没响应的情况自动跳过
-#### 优化了读取速度
-*加快了读取速度大概40%
-####  增加了搜索功能
-*可模糊搜索
+
