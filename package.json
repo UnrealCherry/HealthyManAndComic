@@ -1,6 +1,6 @@
 {
   "name": "h-comic",
-  "version": "1.0.5",
+  "version": "1.0.8",
   "description": "healhy",
   "main": "RandomHC.js",
   "dependencies": {
