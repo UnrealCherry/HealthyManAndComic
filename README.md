@@ -22,7 +22,8 @@ RandomHC(NAME,INDEX)
 * cnpm install h-comic   //用cnpm安装h-comic
 * var h =require("h-comic")
 * h.download("少女","ちゃんに見せられ") //搜索指定名字 可模糊搜索但不能带有空格
-* h.download("少女",9043)   //搜索指定番号
+* h.download("少女",9333)   //搜索指定番号
+* 千万不要用txt保存代码然后改后缀名成js 因为编码不同里面的汉字无法识别,会报错
 
 ```
 
